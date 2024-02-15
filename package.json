@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PamJohnston/PriceCalculator.git"
+    "url": "git+https://github.com/MichaelJMorrison/CM4025Lab01.git.git"
   },
   "keywords": [
     "simple"
@@ -16,9 +16,9 @@
   "author": "Pam",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PamJohnston/PriceCalculator/issues"
+    "url": "https://github.com/MichaelJMorrison/CM4025Lab01/issues"
   },
-  "homepage": "https://github.com/PamJohnston/PriceCalculator#readme",
+  "homepage": "https://github.com/MichaelJMorrison/CM4025Lab01#readme",
   "dependencies": {
     "express": "^4.18.2",
     "path": "^0.12.7"
